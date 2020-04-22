@@ -1,0 +1,77 @@
+{
+    "config": {
+        "prefix": "wryyy",
+        "token": "your token here!"
+    },
+    "responses": [
+        "dio!",
+        "*approach*",
+        "wryyy!",
+        "dio rejects humanity",
+        "muda muda muda!",
+        "road roller da!",
+        "za warudo!",
+        "dio liking you",
+        "dio scheming",
+        "dio eats bread",
+        "dio self",
+        "kono dio da!",
+        "dio hips",
+        "dio stomps",
+        "dio quotes"
+    ],
+    "gifs": {
+        "responses": [
+            "dio!",
+            "*approach*",
+            "wryyy!",
+            "i give up my humanity",
+            "muda muda muda!",
+            "road roller da!",
+            "za warudo!"
+        ],
+        "dio!" : "https://media.tenor.com/images/16a9889ed36a4ded69f0296475e44a1f/tenor.gif",
+        "*approach*" : "https://media.tenor.com/images/00b6b62cb3fc5a4ad293ca1fd6d7960f/tenor.gif",
+        "wryyy!" : "https://media.tenor.com/images/d42f6acfbe9caf83d32de180f79b626b/tenor.gif",
+        "dio rejects humanity" : "https://media.tenor.com/images/46f62414b5259a88c4847b8067f1105d/tenor.gif",
+        "muda muda muda!" : "https://media.tenor.com/images/13192b81a94985f60b95ee2d8c1bf66d/tenor.gif",
+        "road roller da!" : "https://media.tenor.com/images/17d3878438e3b7c628deb83dc05b3a5b/tenor.gif",
+        "za warudo!" : "https://media.tenor.com/images/4f9c318bb3cf4fa7b5898f4651d93e53/tenor.gif"
+    },
+    "imgs": {
+        "responses": [
+            "dio self",
+            "kono dio da!",
+            "dio hips",
+            "dio stomps"
+        ],
+        "dio self" : "https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/11/Featured-Image-Dio-Brando-Cropped.jpg",
+        "kono dio da!" : "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/11/It-was-me-Dio-Cropped.jpg",
+        "dio hips" : "https://i.pinimg.com/originals/bf/85/21/bf8521bebc383dad49ea16ff839396a4.jpg",
+        "dio stomps" : "https://i.pinimg.com/originals/c6/03/65/c60365a3bc2bfaf4628c0d1ba8a385e6.png"
+    },
+    "quotes": {
+        "responses": [
+            "dio!",
+            "*approach*",
+            "wryyy!",
+            "dio rejects humanity",
+            "muda muda muda!",
+            "road roller da!",
+            "za warudo!",
+            "dio liking you",
+            "dio scheming",
+            "dio eats bread"
+        ],
+        "dio!" : "It Was Me, Dio!",
+        "*approach*" : "Oh? You're Approaching Me?",
+        "dio liking you" : "Are You Really Trying To Shoot Me? I Like You.",
+        "dio scheming" : "The More Carefully You Scheme, The More Unexpected Events Come Along.",
+        "wryyy!" : "Wryyyyy!",
+        "dio eats bread" : "How Many Breads Have You Eaten In Your Life?",
+        "dio rejects humanity" : "I Reject My Humanity, Jojo!",
+        "muda muda muda!" : "Muda! Muda! Muda! Muda! Muda!",
+        "road roller da!" : "Road Roller Da!",
+        "za warudo!" : "Za Warudo!"
+    }
+}
